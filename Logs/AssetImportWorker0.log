@@ -776,3 +776,235 @@ Loaded scene 'Assets/Scenes/boat.unity'
  -> (artifact id: '9064afb88cc3302ec89a305a90eace61') in 3.7702714 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2236
 
+========================================================================
+Received Import Request.
+  Time since last request: 81.600561 seconds.
+  path: Assets/Materials/Dust.mat
+  artifactKey: Guid(1e985743d56355f4683ad62cc161f252) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Dust.mat using Guid(1e985743d56355f4683ad62cc161f252) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '878e1bae9f08df0220431e75abc30e15') in 0.2241094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Models/Character/Materials/lambert3.mat
+  artifactKey: Guid(76b9f5b625273cd4293acc2ed0bf1f7f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Models/Character/Materials/lambert3.mat using Guid(76b9f5b625273cd4293acc2ed0bf1f7f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '14eacdf7770c458b178578dd1c228ad2') in 0.0237951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Materials/Gradien01.mat
+  artifactKey: Guid(b56b44fc5c247b74285689417fe3003d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Gradien01.mat using Guid(b56b44fc5c247b74285689417fe3003d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c1d0e8d752da8bed23de87d4171b13cb') in 0.0370684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Animations/Materials/eyes_color_map.mat
+  artifactKey: Guid(d7e3541d9131fd449bd4aaf4b7968458) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Animations/Materials/eyes_color_map.mat using Guid(d7e3541d9131fd449bd4aaf4b7968458) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '032598054e1c71fed450063c3de1bf3f') in 0.050606 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Materials/Gradient01.mat
+  artifactKey: Guid(cd48676cb2a8a1b45a2e7e4f3b57d381) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Gradient01.mat using Guid(cd48676cb2a8a1b45a2e7e4f3b57d381) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cb9381c2c111a74fe2091f374a072fb9') in 0.0320906 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Scenes/CaveSettings.lighting
+  artifactKey: Guid(3c17d29265fa6da45b8755f0a5fdeede) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/CaveSettings.lighting using Guid(3c17d29265fa6da45b8755f0a5fdeede) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)LightingSettings: switching bake backend from 2 to 1.
+ -> (artifact id: '6f5713e7a354253352f1fc1f4593f03b') in 0.042599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Scenes/boatSettings.lighting
+  artifactKey: Guid(21d1891640d4a0d44a7b49d8eff945c9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/boatSettings.lighting using Guid(21d1891640d4a0d44a7b49d8eff945c9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)LightingSettings: switching bake backend from 2 to 1.
+ -> (artifact id: '5bb4d1647f59f641bb068853714f4635') in 0.0350805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Prefabs/Spirit.prefab
+  artifactKey: Guid(4832b982b8b730e428324f7c5a036daa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Spirit.prefab using Guid(4832b982b8b730e428324f7c5a036daa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'facc1ac64fd0c52818cb58c69d92b5f6') in 0.0699239 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 884
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Models/Background/Materials/lambert1.mat
+  artifactKey: Guid(63f0f845aa22a584489914645c3a7961) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Models/Background/Materials/lambert1.mat using Guid(63f0f845aa22a584489914645c3a7961) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f67fbcc62af6ca40ad790892e29b9b0b') in 0.0296474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Materials/BlackFade 1.mat
+  artifactKey: Guid(3fbd79e0bba4a7a46a4ef654c9c65bcd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/BlackFade 1.mat using Guid(3fbd79e0bba4a7a46a4ef654c9c65bcd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a755c452d0bdbe3c2da8cbed9a0ae6e2') in 0.0364225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Scenes/test_convert.unity
+  artifactKey: Guid(74d6ee492fc2e074b9a86e13bb1743cc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/test_convert.unity using Guid(74d6ee492fc2e074b9a86e13bb1743cc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f3b265f7df3be9236fc9198977c09ab0') in 0.0456838 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Scenes/HouseSettings.lighting
+  artifactKey: Guid(199f86c28274a26428c5ff7ceb4f781f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/HouseSettings.lighting using Guid(199f86c28274a26428c5ff7ceb4f781f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)LightingSettings: switching bake backend from 2 to 1.
+ -> (artifact id: '3efbe607a9f2e96ec7dce6bc872f0d53') in 0.0399094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Materials/SpiritWorld.mat
+  artifactKey: Guid(edb8e22bf706c364f83622c57dd360a7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/SpiritWorld.mat using Guid(edb8e22bf706c364f83622c57dd360a7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fbb2dff1d57953c36e3a38d253cce634') in 0.0401683 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Materials/WhiteFade.mat
+  artifactKey: Guid(1bafe1219a7a4e3488bc9ca285505c62) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/WhiteFade.mat using Guid(1bafe1219a7a4e3488bc9ca285505c62) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e279c15f50432a8e2c9f71bce27fbc05') in 0.0334392 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/ScreenDrops/_Demo/demo.unity
+  artifactKey: Guid(398d9fb3c899f5b4f944781b7ec57e78) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/ScreenDrops/_Demo/demo.unity using Guid(398d9fb3c899f5b4f944781b7ec57e78) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '36727fa4f52b17e49a3872b7ace01d3d') in 0.0419518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Scenes/Cave.unity
+  artifactKey: Guid(57509d1a8529fc04f9c588cf7aa8bab7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Cave.unity using Guid(57509d1a8529fc04f9c588cf7aa8bab7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8a580c1f1d6844ed301ebf8dd446fc5c') in 0.0434284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Models/Cave/Materials/lambert3.mat
+  artifactKey: Guid(1d984e88b8503d1458992ca90406f265) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Models/Cave/Materials/lambert3.mat using Guid(1d984e88b8503d1458992ca90406f265) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a57abef33923e8d806c7383148c23e2e') in 0.0290566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Materials/Fire01.mat
+  artifactKey: Guid(d38e7c2783404b448bea71012716613a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Fire01.mat using Guid(d38e7c2783404b448bea71012716613a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '34f6d2484400f6c2b84841e06423a940') in 0.0284529 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Materials/BlackFade.mat
+  artifactKey: Guid(7da5259e69e090d4981934f2a3c68cd0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/BlackFade.mat using Guid(7da5259e69e090d4981934f2a3c68cd0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '935966781b3cc6b40f62b9d291645ad5') in 0.0282002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Materials/SpiritWorldScroll.mat
+  artifactKey: Guid(f2375f5d722d9ba4196b4d10f8089470) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/SpiritWorldScroll.mat using Guid(f2375f5d722d9ba4196b4d10f8089470) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f3d2b3b5ae7fa85123e0ce436d821b5b') in 0.0328268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Materials/Darken.mat
+  artifactKey: Guid(ceec2a5862f2a7045b8d5cd8e245b65e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Darken.mat using Guid(ceec2a5862f2a7045b8d5cd8e245b65e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0694c5fb53e2de46e9be66d1f03377f2') in 0.0347781 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Animations/Materials/Standard_19.mat
+  artifactKey: Guid(5648528d8c42d904da1fab60d9f430f8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Animations/Materials/Standard_19.mat using Guid(5648528d8c42d904da1fab60d9f430f8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7d788f3d7c9ada9e117a2f6fa2a4bd25') in 0.035207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Models/Character/Materials/lambert1.mat
+  artifactKey: Guid(b818898929fe1aa47899ffdc6ff21c3e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Models/Character/Materials/lambert1.mat using Guid(b818898929fe1aa47899ffdc6ff21c3e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '167a8303fd4aaea09b3ed810cc68e944') in 0.0303071 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Prefabs/Interaction/HumanToSpiritTrigger.prefab
+  artifactKey: Guid(bb0ffbadae9d42e479a7785bcffa61ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Interaction/HumanToSpiritTrigger.prefab using Guid(bb0ffbadae9d42e479a7785bcffa61ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5640cc0119cb52df3057a264955ae6fc') in 0.0344943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Prefabs/Background/cloud_01.prefab
+  artifactKey: Guid(25b3dd591657b294db9c4e56f24eabb4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Background/cloud_01.prefab using Guid(25b3dd591657b294db9c4e56f24eabb4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '44a52263c62d333fc4d7d9c8087bcd0f') in 0.0305156 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Materials/CloudBase.mat
+  artifactKey: Guid(ec6df7a761256114aa950fae1d80d01e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/CloudBase.mat using Guid(ec6df7a761256114aa950fae1d80d01e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9de07e3ac2c1a17103b80d72a67e9b2f') in 0.0288567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Scenes/test_convertSettings.lighting
+  artifactKey: Guid(d0ea838c58e6430439f93e2869fc7fa5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/test_convertSettings.lighting using Guid(d0ea838c58e6430439f93e2869fc7fa5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter)LightingSettings: switching bake backend from 2 to 1.
+ -> (artifact id: 'ebcdf35dfe2de6f9a870f8205be1c62d') in 0.0328748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Scenes/boat.unity
+  artifactKey: Guid(776278285643e8446863fc5a0a4e05ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/boat.unity using Guid(776278285643e8446863fc5a0a4e05ee) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2ca42f85a5febe532b1557fe6175baf7') in 0.0359377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

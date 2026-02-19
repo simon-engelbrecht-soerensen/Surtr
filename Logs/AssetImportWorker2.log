@@ -318,3 +318,7 @@ Received Import Request.
 Start importing Assets/Prefabs/Boat/supportBends.prefab using Guid(da87b0b0ce78f3a43bca7b1b1c134538) Importer(2089858483,e11c23a36db5f54750b8cd40eac0985b) (ScriptedImporter) -> (artifact id: '570ae153388187c68737b5e5c0e4080e') in 0.044148 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
