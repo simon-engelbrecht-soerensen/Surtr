@@ -120,12 +120,12 @@ public class SpiritMovement_old : MonoBehaviour {
 //			rigidbody.AddForce(inputDir.normalized * speed, ForceMode.Impulse);
 			GetComponent<Rigidbody>().AddForce(new Vector3(0, jumpPower,0), ForceMode.Impulse);
 
-		if(GetComponent<Rigidbody>().velocity.y < 0)
+		if(GetComponent<Rigidbody>().linearVelocity.y < 0)
 		{
 			//falling
 			GetComponent<Rigidbody>().AddForce(new Vector3(0, inputDir.y/diluteInput,0), ForceMode.VelocityChange);
 		}
-		Debug.Log(GetComponent<Rigidbody>().velocity.y);
+		Debug.Log(GetComponent<Rigidbody>().linearVelocity.y);
 
 //		}
 //		speed = speed + accel * inputDir.magnitude * Time.deltaTime;

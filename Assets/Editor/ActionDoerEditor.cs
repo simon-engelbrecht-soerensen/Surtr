@@ -29,7 +29,7 @@ public class ActionDoerEditor : Editor {
 	public static ActionHandler actionDoer;
 
 
-	[SerializeField]
+	// [SerializeField]
 
 	//handlers
 

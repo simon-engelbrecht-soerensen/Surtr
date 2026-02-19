@@ -6,15 +6,15 @@ public class ShowOnTrigger : MonoBehaviour {
 	// Use this for initialization
 	public GameObject thingToShow;
 	private Color startCol;
-	private UILabel label;
+	// private UILabel label;
 	void Start () 
 	{
-		if(thingToShow.GetComponent<UILabel>())
-		{
-			label = thingToShow.GetComponent<UILabel>();
-			startCol = label.color;
-			label.color = new Color(startCol.r, startCol.g, startCol.b, 0);
-		}
+		// if(thingToShow.GetComponent<UILabel>())
+		// {
+		// 	// label = thingToShow.GetComponent<UILabel>();
+		// 	// startCol = label.color;
+		// 	// label.color = new Color(startCol.r, startCol.g, startCol.b, 0);
+		// }
 	}
 	
 	// Update is called once per frame
@@ -51,7 +51,7 @@ public class ShowOnTrigger : MonoBehaviour {
 			if(mTime< 1)
 			{
 				mTime += Time.deltaTime;
-				label.color = Color.Lerp(new Color(startCol.r, startCol.g, startCol.b, 0), startCol, mTime);
+				// label.color = Color.Lerp(new Color(startCol.r, startCol.g, startCol.b, 0), startCol, mTime);
 			}
 			else
 			{
@@ -69,7 +69,7 @@ public class ShowOnTrigger : MonoBehaviour {
 			if(mTime< 1)
 			{
 				mTime += Time.deltaTime;
-				label.color = Color.Lerp(startCol, new Color(startCol.r, startCol.g, startCol.b, 0), mTime);
+				// label.color = Color.Lerp(startCol, new Color(startCol.r, startCol.g, startCol.b, 0), mTime);
 			}
 			else
 			{

@@ -19,7 +19,7 @@ public class FloatChar : MonoBehaviour {
 	public bool turnOnFloat;
 	public bool turnOffFloat;
 	private float startFallspeed;
-	public Vignetting vig;
+	//public Vignetting vig;
 	public GameObject leftCol;
 	private AudioSource waterSound;
 	public AudioSource stormSound;
@@ -27,7 +27,7 @@ public class FloatChar : MonoBehaviour {
 	{
 		waterSound = GameObject.Find("WaterSound").GetComponent<AudioSource>();
 		waterSound.enabled = false;
-		vig = Camera.main.GetComponent<Vignetting>();
+		//vig = Camera.main.GetComponent<Vignetting>();
 		spirit = Transform.FindObjectOfType<SpiritMovement>().gameObject.transform;
 
 		anim = GetComponentInChildren<Animator>();
@@ -80,7 +80,7 @@ public class FloatChar : MonoBehaviour {
 			turnOnFloat =false;
 			turnOffFloat = true;
 			on = false;
-			vig.enabled = true;
+			// vig.enabled = true;
 			pSwitch.canGoSpirit = true;
 			leftCol.GetComponent<Collider>().enabled =true;
 		}
@@ -98,7 +98,7 @@ public class FloatChar : MonoBehaviour {
 			turnOffFloat = false;
 			transform.position = new Vector3(spirit.position.x, spirit.position.y, spirit.position.z);
 			pSwitch.curState = !pSwitch.curState;
-			vig.enabled = false;
+			// vig.enabled = false;
 			fall = true;
 			pMove.activeMovement = false;
 			yield return new WaitForSeconds(0.5f);

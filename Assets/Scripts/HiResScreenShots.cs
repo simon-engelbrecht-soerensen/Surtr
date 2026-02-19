@@ -22,7 +22,7 @@ public class HiResScreenShots : MonoBehaviour {
 		takeHiResShot |= Input.GetKeyDown("g");
 //		takeHiResShot |= Input.GetButtonDown(Ke);
 		if (takeHiResShot) {
-			Application.CaptureScreenshot(ScreenShotName(resWidth, resHeight), 4);
+			ScreenCapture.CaptureScreenshot(ScreenShotName(resWidth, resHeight), 4);
 //			RenderTexture rt = new RenderTexture(resWidth, resHeight, 24);
 //			camera.targetTexture = rt;
 //			Texture2D screenShot = new Texture2D(resWidth, resHeight, TextureFormat.RGB24, false);

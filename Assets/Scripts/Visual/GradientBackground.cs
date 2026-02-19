@@ -27,12 +27,12 @@ public class GradientBackground : MonoBehaviour {
 		
 		mesh.triangles = new int[6] {0, 1, 2, 1, 3, 2};
 		
-		Material mat = new Material("Shader \"Vertex Color Only\"{Subshader{BindChannels{Bind \"vertex\", vertex Bind \"color\", color}Pass{}}}");
-		GameObject gradientPlane = new GameObject("Gradient Plane", typeof(MeshFilter), typeof(MeshRenderer));
+		// Material mat = new Material("Shader \"Vertex Color Only\"{Subshader{BindChannels{Bind \"vertex\", vertex Bind \"color\", color}Pass{}}}");
+		// GameObject gradientPlane = new GameObject("Gradient Plane", typeof(MeshFilter), typeof(MeshRenderer));
 		
-		((MeshFilter)gradientPlane.GetComponent(typeof(MeshFilter))).mesh = mesh;
-		gradientPlane.GetComponent<Renderer>().material = mat;
-		gradientPlane.layer = gradientLayer;
+		// ((MeshFilter)gradientPlane.GetComponent(typeof(MeshFilter))).mesh = mesh;
+		// gradientPlane.GetComponent<Renderer>().material = mat;
+		// gradientPlane.layer = gradientLayer;
 	}
 	
 }
